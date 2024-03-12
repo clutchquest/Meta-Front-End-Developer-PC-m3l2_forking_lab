@@ -29,6 +29,8 @@
 
 - ### **H**
 
+  -[Hunter Southerland](https://github.com/clutchquest) Frontend Development
+
   -[Hafiz Noum](https://github.com.hmnouman) Frontend development
  
 - ### **J**
